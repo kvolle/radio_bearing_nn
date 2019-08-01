@@ -1,0 +1,7 @@
+data/*
+log/*
+model/*
+
+*.png
+
+!*/.gitkeep
